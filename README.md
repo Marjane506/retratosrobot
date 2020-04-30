@@ -7,4 +7,4 @@ Programa para crear relatos con cadenas de caracteres.
 Una vez ejecultado el programa,el ususario puede crear tantos retratos como desee.
 Los retratos se crean eligiendo los rasgos de cada faccion con las opciones siguientes:
 
-![Rasgos](https://github.com/Marjane506/retratosrobot/blob/master/v0.1.txt)
+
